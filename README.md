@@ -29,4 +29,4 @@ I focus on building reliable, practical and user-friendly solutions tailored to 
 
 📫 Contact
 
-Telegram: t.me/hardstar
+Telegram: https://t.me/hardstar
