@@ -4,8 +4,6 @@ Python Developer • Telegram Bots • Mini Apps • Automation • Web • Unit
 
 I develop practical digital solutions, from Telegram bots and Mini Apps to automation tools, websites and game projects.
 
-⸻
-
 🚀 What I Do
 
 * 🤖 Telegram Bots — development of bots of any complexity
@@ -17,8 +15,6 @@ I develop practical digital solutions, from Telegram bots and Mini Apps to autom
 * 🎨 UI/UX Design — interface design and prototypes in Figma
 * 🔐 VPN Infrastructure — Xray, Marzban & 3X-UI
 
-⸻
-
 🛠️ Technologies
 
 * Python
@@ -27,14 +23,10 @@ I develop practical digital solutions, from Telegram bots and Mini Apps to autom
 * Figma
 * API Integration
 
-⸻
-
 💡 Development Focus
 
 I focus on building reliable, practical and user-friendly solutions tailored to each project’s needs.
 
-⸻
-
 📫 Contact
 
-Telegram: @hardstar
+Telegram: t.me/hardstar
