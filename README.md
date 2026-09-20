@@ -1,16 +1,40 @@
-## Hi there 👋
+TheHardStar
 
-<!--
-**thehardstar/thehardstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer • Telegram Bots • Mini Apps • Automation • Web • Unity • VPN Infrastructure
 
-Here are some ideas to get you started:
+I develop practical digital solutions, from Telegram bots and Mini Apps to automation tools, websites and game projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🚀 What I Do
+
+* 🤖 Telegram Bots — development of bots of any complexity
+* 📱 Telegram Mini Apps — interactive Web Apps for Telegram
+* 🐍 Python Development — automation, scripts and backend solutions
+* 🔌 API Integration — working with APIs and external services
+* 🌐 Web Development — business websites and landing pages
+* 🎮 Unity Development — games and interactive applications
+* 🎨 UI/UX Design — interface design and prototypes in Figma
+* 🔐 VPN Infrastructure — Xray, Marzban & 3X-UI
+
+⸻
+
+🛠️ Technologies
+
+* Python
+* SQLite
+* Unity
+* Figma
+* API Integration
+
+⸻
+
+💡 Development Focus
+
+I focus on building reliable, practical and user-friendly solutions tailored to each project’s needs.
+
+⸻
+
+📫 Contact
+
+Telegram: @hardstar
