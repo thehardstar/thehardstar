@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Python Developer
+# HardStar
 
 ### Python Developer • Telegram Bots • Mini Apps • Automation • Web • Unity • VPN Infrastructure
 
