@@ -1,4 +1,4 @@
-# HardStar
+# 👋 Hi, I'm a Python Developer
 
 ### Python Developer • Telegram Bots • Mini Apps • Automation • Web • Unity • VPN Infrastructure
 
@@ -6,7 +6,7 @@ I build practical digital solutions — from Telegram bots and Mini Apps to auto
 
 ---
 
-## 🚀 [What I Do](https://t.me/hardstar)
+## 🚀 What I Do
 
 | Area | Description |
 |---|---|
@@ -21,7 +21,7 @@ I build practical digital solutions — from Telegram bots and Mini Apps to auto
 
 ---
 
-## 🛠️ [Technologies](https://t.me/hardstar)
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,12 +31,12 @@ I build practical digital solutions — from Telegram bots and Mini Apps to auto
 
 ---
 
-## 💡 [Development Focus](https://t.me/hardstar)
+## 💡 Development Focus
 
 I focus on building reliable, practical, and user-friendly solutions tailored to each project's needs.
 
 ---
 
-## 📫 [Contact](https://t.me/hardstar)
+## 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@hardstar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hardstar)
